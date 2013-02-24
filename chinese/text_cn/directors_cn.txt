@@ -1,0 +1,8 @@
+<tr><td>會長</td>              <td>徐康</td></tr>
+<tr><td>第一副會長t</td>        <td>陳永建</td></tr>
+<tr><td>第二副會長</td>         <td>李建國 </td></tr>
+<tr><td>財政</td>              <td>梁天澤</td></tr>
+<tr><td>袐書</td>              <td>李玉翠</td></tr>
+<tr><td>幹事</td>              <td>馮燕薇</td></tr>
+<tr><td>幹事</td>              <td>黄國樑</td></tr>
+<tr><td>幹事</td>              <td>廖樹棠</td></tr>

@@ -1,0 +1,10 @@
+<tr><td>President</td>          <td>Stephen Tsui</td></tr>
+<tr><td>1st VP</td>             <td>Wayne Chen</td></tr>
+<tr><td>2nd VP</td>             <td>Jian Li</td></tr>
+<tr><td>Treasurer</td>          <td>Christopher Leung</td></tr>
+<tr><td>Secretary</td>          <td>Betty Lee-Daigle</td></tr>
+<tr><td>Director</td>           <td>Catherine Fung</td></tr>
+<tr><td>Director</td>           <td>Ralph Wong</td></tr>
+<tr><td>Director</td>           <td>Allen Liu</td></tr>
+<tr><td>Director</td>           <td>Thomas Wong</td></tr>
+<tr><td>Director</td>           <td>Mable Cheung</td></tr>      

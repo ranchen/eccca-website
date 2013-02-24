@@ -1,0 +1,190 @@
+﻿html, body {
+	margin:0;
+	padding:0;
+}
+
+/*
+	Page style
+*/
+
+body {
+  background-image:url('eccca_bg.gif');
+  font-family: Helvetica, Arial, sans-serif;
+  color: Black;
+}
+
+h1 {
+  color: Gray;
+  padding: 0;
+  margin: 0;
+  margin-top: 30px;
+}
+
+p {
+  line-height: 130%;
+}
+
+table {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  margin-top: 30px;
+}
+
+th {
+  font-weight: bold;
+  height: 25px;
+  text-align: left;
+}
+td {
+  width: 150px;
+}
+
+#container {
+  width: 920px;
+  background: White;
+  margin: 0 auto;
+  border: 1px solid Gray;
+  /*ROUNDED CORNERS*/
+  border-radius: 5px;
+}
+
+/*
+  LANGUAGE BAR
+*/
+
+#languageBar {
+  margin: 0 auto;
+  width: 920px;
+  height: 20px;
+  padding-bottom: 5px;
+}
+
+#languageBar p {
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+#languageBar a {
+  color: Black;
+  padding: 0;
+  margin: 0;
+}
+
+/*
+  BANNER
+*/
+
+#banner {
+  padding: 10px;
+}
+
+/*
+  NAVIGATIONAL MENU
+*/
+
+#navbarwrapper {
+  height: 35px;
+}
+
+#navbar {
+  display: block;
+  width: 882px;
+  padding: 0;
+  margin: auto;
+}
+
+#navbar li {
+  list-style: none;
+  float: left;
+}
+
+#navbar li a {
+  display: block;
+  width: 125px;
+  height: 24px;
+  padding-top: 7px;
+  color: White;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  border-right: 1px solid White;
+  /*GRADIENT EFFECT*/
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='Pink', endColorstr='Red'); /* for IE */
+  background: -webkit-gradient(linear, center top, center bottom, from(Pink), to(Red)); /* for webkit browsers */
+  background: -moz-linear-gradient(top,  #E6ADB7,  Red); /* for firefox 3.6+ */ 
+}
+
+#navbar li ul {
+  padding: 0;
+  display: none;
+}
+
+#navbar li:hover ul {
+  display: block;
+  position: absolute;
+  z-index: 1000;
+}
+
+#navbar li:hover li {
+  float: none;
+}
+
+#navbar li:hover li a {
+  border-top: 1px solid White;
+  color: White;
+  /*GRADIENT EFFECT*/
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='Pink', endColorstr='Red'); /* for IE */
+  background: -webkit-gradient(linear, center top, center bottom, from(Pink), to(Red)); /* for webkit browsers */
+  background: -moz-linear-gradient(top,  Pink,  Red); /* for firefox 3.6+ */ 
+}
+
+#navbar a:hover, #navbar li li a:hover {
+  color: Black;
+  background: Pink;
+}
+
+/*
+  TEXT
+*/
+
+.text {
+  padding: 0 50px;
+  clear: both;
+  overflow: auto;
+}
+
+.leftpane {
+  padding: 10px 25px 10px 50px;
+  width: 384px;
+  float: left;
+}
+.rightpane {
+  padding: 10px 50px 10px 25px;
+  width: 384px;
+  float: right;
+  border-left: 1px solid Gray;
+}
+.clear {
+  clear: both;
+  height: 30px;
+}
+
+/*
+  FOOTER
+*/
+
+#footer {
+  margin: 0 auto;
+  width: 920px;
+  height: 20px;
+}
+
+#footer p {
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
